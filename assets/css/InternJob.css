@@ -1,0 +1,115 @@
+.job {
+    background: #f7f5f5;
+    padding: 2rem;
+    padding-top: 1rem;
+    margin-top: 3rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 4rem;
+    border: 1px solid #EEE;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 8%);
+    border-radius: 6px;
+    line-height: 1.5;
+}
+
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus,
+.navbar li:hover>a {
+    color: #EEE;
+}
+
+.jobsa {
+    margin-top: 9rem;
+}
+
+.skill {
+    /* line-height: 5%; */
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+.intern {
+    padding: 6px 12px;
+    background: #d4d2d2;
+    border-radius: 14px;
+    font-size: 14px;
+    color: #666;
+    line-height: 16px;
+    margin-right: 8px;
+    width: 85px;
+    display: inline;
+}
+
+.company_intern {
+    display: inline;
+    position: relative;
+    top: 1.5rem;
+}
+
+.View {
+    position: relative;
+    left: 52rem;
+    text-decoration: none;
+}
+
+.logo_img {
+    position: relative;
+    left: 59rem;
+    bottom: 2rem;
+    width: 5rem;
+}
+.row .jobsa{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(6 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    /* margin-left: 5rem;
+    margin-right: 5rem; */
+    margin-bottom: 4rem;
+}
+.up{
+    font-weight: bolder;
+}
+#microsoft{
+    margin-top: 9rem;
+    text-align: center;
+}
+.content{
+    margin-left: 5rem;
+}
+.heading{
+    margin-bottom: 1.5rem;
+}
+/* .a{
+    background-color: #ddd;
+} */
+.refral-img{
+    border-radius: 50%;
+    height: 10rem;
+    width: 10rem;
+}
+.last{
+    margin-bottom: 4rem;
+}
+
+/***seminar_images*/
+
+.semi_img{
+  height: 25rem;
+  width: 100%;
+}
+.semi-head{
+    margin-bottom:2rem ;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.ab{
+    margin-top: 6rem;
+}
